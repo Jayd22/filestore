@@ -1,0 +1,6 @@
+CustomerID,ContactID,Role
+C001,CN004,Teacher
+C002,CN001,Teacher
+C002,CN002,Teacher
+C002,CN003,Center Manager
+C003,CN004,Teacher
